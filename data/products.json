@@ -1,0 +1,31 @@
+{
+    "total": 0,
+    "tax": 0,
+    "subTotal" : 0,
+    "products" : [
+        {
+        "id": "ctntee01",
+        "displayName": "Cotton Tshirt",
+        "size": "Medium",
+        "price": 1.99,
+        "description": "Comfortable Tees for stylish look",
+        "quantity": 1
+        },
+        {
+        "id": "bbcap01",
+        "displayName": "Baseball Cap",
+        "size": "One Size",
+        "price": 2.99,
+        "description": "Gives a Sporty look ",
+        "quantity": 1
+        },
+        {
+        "id": "swsh23",
+        "displayName": "Swin Shorts",
+        "size": "Medium",
+        "price": 2.99,
+        "description": "Mild wash and Lightweight",
+        "quantity": 1
+        }
+    ]
+}
